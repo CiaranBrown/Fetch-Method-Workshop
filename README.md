@@ -1,2 +1,3 @@
-# Fetch-Method-Workshop
-Founders &amp; Coders Workshop
+Founders & Coders Javascript Workshop Challenges
+
+Fetch Method workshop complete!
